@@ -1,0 +1,6 @@
+2026-02-10T18:45:34.118554 | Account: Manava_AC001 | Action: Account Creation | Status: Success
+2026-02-10T18:45:34.119077 | Account: Manava_AC001 | Action: Deposited 1000 | Status: Success
+2026-02-10T18:45:34.119441 | Account: Manava_AC001 | Action: Withdrew 300 | Status: Success
+2026-02-10T18:49:42.664389 | Account: Manava S_AC002 | Action: Account Creation | Status: Success
+2026-02-10T18:49:42.664775 | Account: Manava S_AC002 | Action: Deposited 100000 | Status: Success
+2026-02-10T18:49:42.665549 | Account: Manava S_AC002 | Action: Withdrew 3000 | Status: Success

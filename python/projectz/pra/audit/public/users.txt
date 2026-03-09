@@ -1,0 +1,5 @@
+"ABC001948", "login", "success"
+"ABC001948", "view_dashboard", "success"
+"ABC001948", "view_dashboard/roadmap", "success"
+"ABC001948", "logout", "success"
+"ABC001948", "update_profile", "failed"
