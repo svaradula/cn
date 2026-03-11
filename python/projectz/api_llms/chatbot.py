@@ -14,17 +14,36 @@ system_instruction = (
 
 user_input = ""
 
-model = client.models.generate_content(
+
+chat = client.chats.create(
     model="gemini-2.5-flash",
-    contents=user_input, 
+    history=[],
     config={
         "system_instruction": system_instruction,
         "temperature": 0.7,
         "top_p": 0.9,
-        "top_k": 50,
-        "max_output_tokens": 100
+        "top_k": 10,
+        "max_output_tokens": 1000
     }
 )
 
+while True:
+    print()
+    user_input = input("You: ")
+    if user_input.lower() in ("exit", "quit"):
+        print("Goodbye! Keep looking up at the stars! 🌟")
+        break
+    try:
+        full_text = []
+        print("Chatbot: ", end="", flush=True)
+        for chunk in chat.send_message_stream(user_input):
+            text = getattr(chunk, "text", None)
+            if text:
+                print(text, end="", flush=True)
+                full_text.append(text)
 
-print("🚀 SpaceBot ready! Ask anything about space. Type 'exit' to quit.\n")
+        print()  # final newline 
+
+    except Exception as e:
+        print(f"An error occurred: {e}")
+        time.sleep(1)  # Wait a bit before trying again
