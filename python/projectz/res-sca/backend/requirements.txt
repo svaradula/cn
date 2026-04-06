@@ -1,0 +1,25 @@
+# ── HuggingFace stack (replaces openai + langchain-openai) ────────────────────
+sentence-transformers==3.0.1       # BAAI/bge-base-en-v1.5 embedding model
+huggingface-hub==0.24.6            # HF API client
+langchain-huggingface==0.0.3       # LangChain ↔ HF integration
+faiss-cpu==1.8.0
+
+# ── Core (unchanged) ──────────────────────────────────────────────────────────
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+python-multipart==0.0.9
+langchain==0.2.5
+langchain-core==0.2.9
+langchain-community==0.2.5
+langchain-text-splitters==0.2.2
+pdfplumber==0.11.0
+PyMuPDF==1.24.3
+python-docx==1.1.0
+pydantic==2.7.1
+python-dotenv==1.0.1
+
+# ── Local inference only (optional, only if HF_LOCAL=true) ────────────────────
+# transformers==4.43.0
+# accelerate==0.32.0
+# bitsandbytes==0.43.3              # 4-bit quantisation (reduces 16GB → 5GB RAM)
+# torch==2.3.1
