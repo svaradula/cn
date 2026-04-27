@@ -1,0 +1,17 @@
+node_modules
+dist
+build
+*.log
+*.env
+*.cache
+*.tmp
+.DS_Store
+
+frontend/node_modules
+frontend/dist
+frontend/build
+frontend/*.log
+frontend/*.env
+frontend/*.cache
+
+backend/.resscan

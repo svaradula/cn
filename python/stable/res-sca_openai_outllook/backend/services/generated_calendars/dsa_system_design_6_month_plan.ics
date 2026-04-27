@@ -1,0 +1,2858 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//OpenAI//DSA-System-Design-6-Month-Plan//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:DSA and System Design 6-Month Study Plan
+X-WR-TIMEZONE:Asia/Kolkata
+BEGIN:VEVENT
+UID:dsa-sd-6m-001-20260424@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260424T040000
+DTEND;TZID=Asia/Kolkata:20260424T060000
+SUMMARY:[DSA] Orientation + how to study DSA & System Design effectively
+DESCRIPTION:Day 1 of 190\nTrack: DSA Foundations and Mastery\nTopic: Orientation + how to study DSA & System Design effectively\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] Orientation + how to study DSA & System Design effectively
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-002-20260425@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260425T040000
+DTEND;TZID=Asia/Kolkata:20260425T060000
+SUMMARY:[DSA] [Weekend] Big-O notation: time and space complexity
+DESCRIPTION:Day 2 of 190\nTrack: DSA Foundations and Mastery\nTopic: Big-O notation: time and space complexity\nWeekend Session: Yes\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] [Weekend] Big-O notation: time and space complexity
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-003-20260426@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260426T040000
+DTEND;TZID=Asia/Kolkata:20260426T060000
+SUMMARY:[DSA] [Weekend] Recursion basics + tracing recursive calls
+DESCRIPTION:Day 3 of 190\nTrack: DSA Foundations and Mastery\nTopic: Recursion basics + tracing recursive calls\nWeekend Session: Yes\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] [Weekend] Recursion basics + tracing recursive calls
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-004-20260427@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260427T040000
+DTEND;TZID=Asia/Kolkata:20260427T060000
+SUMMARY:[DSA] Arrays: basics\, traversal\, insertion\, deletion
+DESCRIPTION:Day 4 of 190\nTrack: DSA Foundations and Mastery\nTopic: Arrays: basics\, traversal\, insertion\, deletion\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] Arrays: basics\, traversal\, insertion\, deletion
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-005-20260428@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260428T040000
+DTEND;TZID=Asia/Kolkata:20260428T060000
+SUMMARY:[DSA] Strings: fundamentals and common operations
+DESCRIPTION:Day 5 of 190\nTrack: DSA Foundations and Mastery\nTopic: Strings: fundamentals and common operations\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] Strings: fundamentals and common operations
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-006-20260429@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260429T040000
+DTEND;TZID=Asia/Kolkata:20260429T060000
+SUMMARY:[DSA] Hashing basics: hash maps and hash sets
+DESCRIPTION:Day 6 of 190\nTrack: DSA Foundations and Mastery\nTopic: Hashing basics: hash maps and hash sets\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] Hashing basics: hash maps and hash sets
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-007-20260430@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260430T040000
+DTEND;TZID=Asia/Kolkata:20260430T060000
+SUMMARY:[DSA] Practice day: arrays\, strings\, hashing basics
+DESCRIPTION:Day 7 of 190\nTrack: DSA Foundations and Mastery\nTopic: Practice day: arrays\, strings\, hashing basics\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] Practice day: arrays\, strings\, hashing basics
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-008-20260501@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260501T040000
+DTEND;TZID=Asia/Kolkata:20260501T060000
+SUMMARY:[DSA] Two pointers technique
+DESCRIPTION:Day 8 of 190\nTrack: DSA Foundations and Mastery\nTopic: Two pointers technique\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] Two pointers technique
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-009-20260502@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260502T040000
+DTEND;TZID=Asia/Kolkata:20260502T060000
+SUMMARY:[DSA] [Weekend] Sliding window technique
+DESCRIPTION:Day 9 of 190\nTrack: DSA Foundations and Mastery\nTopic: Sliding window technique\nWeekend Session: Yes\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] [Weekend] Sliding window technique
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-010-20260503@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260503T040000
+DTEND;TZID=Asia/Kolkata:20260503T060000
+SUMMARY:[DSA] [Weekend] Prefix sums and difference arrays
+DESCRIPTION:Day 10 of 190\nTrack: DSA Foundations and Mastery\nTopic: Prefix sums and difference arrays\nWeekend Session: Yes\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] [Weekend] Prefix sums and difference arrays
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-011-20260504@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260504T040000
+DTEND;TZID=Asia/Kolkata:20260504T060000
+SUMMARY:[DSA] Binary search basics
+DESCRIPTION:Day 11 of 190\nTrack: DSA Foundations and Mastery\nTopic: Binary search basics\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] Binary search basics
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-012-20260505@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260505T040000
+DTEND;TZID=Asia/Kolkata:20260505T060000
+SUMMARY:[DSA] Binary search on answers
+DESCRIPTION:Day 12 of 190\nTrack: DSA Foundations and Mastery\nTopic: Binary search on answers\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] Binary search on answers
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-013-20260506@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260506T040000
+DTEND;TZID=Asia/Kolkata:20260506T060000
+SUMMARY:[DSA] Sorting fundamentals + stability + common algorithms
+DESCRIPTION:Day 13 of 190\nTrack: DSA Foundations and Mastery\nTopic: Sorting fundamentals + stability + common algorithms\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] Sorting fundamentals + stability + common algorithms
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-014-20260507@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260507T040000
+DTEND;TZID=Asia/Kolkata:20260507T060000
+SUMMARY:[DSA] Practice day: search\, sorting\, windows\, pointers
+DESCRIPTION:Day 14 of 190\nTrack: DSA Foundations and Mastery\nTopic: Practice day: search\, sorting\, windows\, pointers\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] Practice day: search\, sorting\, windows\, pointers
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-015-20260508@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260508T040000
+DTEND;TZID=Asia/Kolkata:20260508T060000
+SUMMARY:[DSA] Linked lists: singly linked list basics
+DESCRIPTION:Day 15 of 190\nTrack: DSA Foundations and Mastery\nTopic: Linked lists: singly linked list basics\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] Linked lists: singly linked list basics
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-016-20260509@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260509T040000
+DTEND;TZID=Asia/Kolkata:20260509T060000
+SUMMARY:[DSA] [Weekend] Linked lists: reversal\, middle\, cycle detection
+DESCRIPTION:Day 16 of 190\nTrack: DSA Foundations and Mastery\nTopic: Linked lists: reversal\, middle\, cycle detection\nWeekend Session: Yes\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] [Weekend] Linked lists: reversal\, middle\, cycle detection
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-017-20260510@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260510T040000
+DTEND;TZID=Asia/Kolkata:20260510T060000
+SUMMARY:[DSA] [Weekend] Stacks: fundamentals and use cases
+DESCRIPTION:Day 17 of 190\nTrack: DSA Foundations and Mastery\nTopic: Stacks: fundamentals and use cases\nWeekend Session: Yes\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] [Weekend] Stacks: fundamentals and use cases
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-018-20260511@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260511T040000
+DTEND;TZID=Asia/Kolkata:20260511T060000
+SUMMARY:[DSA] Queues and deque fundamentals
+DESCRIPTION:Day 18 of 190\nTrack: DSA Foundations and Mastery\nTopic: Queues and deque fundamentals\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] Queues and deque fundamentals
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-019-20260512@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260512T040000
+DTEND;TZID=Asia/Kolkata:20260512T060000
+SUMMARY:[DSA] Monotonic stack and monotonic queue
+DESCRIPTION:Day 19 of 190\nTrack: DSA Foundations and Mastery\nTopic: Monotonic stack and monotonic queue\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] Monotonic stack and monotonic queue
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-020-20260513@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260513T040000
+DTEND;TZID=Asia/Kolkata:20260513T060000
+SUMMARY:[DSA] Expression evaluation and balanced parentheses
+DESCRIPTION:Day 20 of 190\nTrack: DSA Foundations and Mastery\nTopic: Expression evaluation and balanced parentheses\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] Expression evaluation and balanced parentheses
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-021-20260514@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260514T040000
+DTEND;TZID=Asia/Kolkata:20260514T060000
+SUMMARY:[DSA] Practice day: linked list\, stack\, queue problems
+DESCRIPTION:Day 21 of 190\nTrack: DSA Foundations and Mastery\nTopic: Practice day: linked list\, stack\, queue problems\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] Practice day: linked list\, stack\, queue problems
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-022-20260515@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260515T040000
+DTEND;TZID=Asia/Kolkata:20260515T060000
+SUMMARY:[DSA] Trees: terminology\, traversals\, recursion on trees
+DESCRIPTION:Day 22 of 190\nTrack: DSA Foundations and Mastery\nTopic: Trees: terminology\, traversals\, recursion on trees\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] Trees: terminology\, traversals\, recursion on trees
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-023-20260516@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260516T040000
+DTEND;TZID=Asia/Kolkata:20260516T060000
+SUMMARY:[DSA] [Weekend] Binary Search Trees: insert\, search\, delete
+DESCRIPTION:Day 23 of 190\nTrack: DSA Foundations and Mastery\nTopic: Binary Search Trees: insert\, search\, delete\nWeekend Session: Yes\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] [Weekend] Binary Search Trees: insert\, search\, delete
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-024-20260517@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260517T040000
+DTEND;TZID=Asia/Kolkata:20260517T060000
+SUMMARY:[DSA] [Weekend] Heaps / priority queues
+DESCRIPTION:Day 24 of 190\nTrack: DSA Foundations and Mastery\nTopic: Heaps / priority queues\nWeekend Session: Yes\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] [Weekend] Heaps / priority queues
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-025-20260518@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260518T040000
+DTEND;TZID=Asia/Kolkata:20260518T060000
+SUMMARY:[DSA] Trie basics and string lookup applications
+DESCRIPTION:Day 25 of 190\nTrack: DSA Foundations and Mastery\nTopic: Trie basics and string lookup applications\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] Trie basics and string lookup applications
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-026-20260519@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260519T040000
+DTEND;TZID=Asia/Kolkata:20260519T060000
+SUMMARY:[DSA] Tree patterns: depth\, height\, diameter\, LCA
+DESCRIPTION:Day 26 of 190\nTrack: DSA Foundations and Mastery\nTopic: Tree patterns: depth\, height\, diameter\, LCA\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] Tree patterns: depth\, height\, diameter\, LCA
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-027-20260520@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260520T040000
+DTEND;TZID=Asia/Kolkata:20260520T060000
+SUMMARY:[DSA] Practice problems on trees and heaps
+DESCRIPTION:Day 27 of 190\nTrack: DSA Foundations and Mastery\nTopic: Practice problems on trees and heaps\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] Practice problems on trees and heaps
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-028-20260521@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260521T040000
+DTEND;TZID=Asia/Kolkata:20260521T060000
+SUMMARY:[DSA] Revision + Month 1 checkpoint
+DESCRIPTION:Day 28 of 190\nTrack: DSA Foundations and Mastery\nTopic: Revision + Month 1 checkpoint\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] Revision + Month 1 checkpoint
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-029-20260522@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260522T040000
+DTEND;TZID=Asia/Kolkata:20260522T060000
+SUMMARY:[DSA] Graphs: representation\, BFS\, DFS
+DESCRIPTION:Day 29 of 190\nTrack: DSA Foundations and Mastery\nTopic: Graphs: representation\, BFS\, DFS\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] Graphs: representation\, BFS\, DFS
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-030-20260523@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260523T040000
+DTEND;TZID=Asia/Kolkata:20260523T060000
+SUMMARY:[DSA] [Weekend] Topological sort and DAG concepts
+DESCRIPTION:Day 30 of 190\nTrack: DSA Foundations and Mastery\nTopic: Topological sort and DAG concepts\nWeekend Session: Yes\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] [Weekend] Topological sort and DAG concepts
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-031-20260524@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260524T040000
+DTEND;TZID=Asia/Kolkata:20260524T060000
+SUMMARY:[DSA] [Weekend] Shortest path: Dijkstra basics
+DESCRIPTION:Day 31 of 190\nTrack: DSA Foundations and Mastery\nTopic: Shortest path: Dijkstra basics\nWeekend Session: Yes\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] [Weekend] Shortest path: Dijkstra basics
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-032-20260525@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260525T040000
+DTEND;TZID=Asia/Kolkata:20260525T060000
+SUMMARY:[DSA] Union Find / Disjoint Set Union
+DESCRIPTION:Day 32 of 190\nTrack: DSA Foundations and Mastery\nTopic: Union Find / Disjoint Set Union\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] Union Find / Disjoint Set Union
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-033-20260526@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260526T040000
+DTEND;TZID=Asia/Kolkata:20260526T060000
+SUMMARY:[DSA] Minimum spanning tree intuition
+DESCRIPTION:Day 33 of 190\nTrack: DSA Foundations and Mastery\nTopic: Minimum spanning tree intuition\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] Minimum spanning tree intuition
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-034-20260527@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260527T040000
+DTEND;TZID=Asia/Kolkata:20260527T060000
+SUMMARY:[DSA] Graph problem patterns
+DESCRIPTION:Day 34 of 190\nTrack: DSA Foundations and Mastery\nTopic: Graph problem patterns\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] Graph problem patterns
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-035-20260528@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260528T040000
+DTEND;TZID=Asia/Kolkata:20260528T060000
+SUMMARY:[DSA] Practice day: BFS/DFS/toposort/DSU
+DESCRIPTION:Day 35 of 190\nTrack: DSA Foundations and Mastery\nTopic: Practice day: BFS/DFS/toposort/DSU\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] Practice day: BFS/DFS/toposort/DSU
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-036-20260529@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260529T040000
+DTEND;TZID=Asia/Kolkata:20260529T060000
+SUMMARY:[DSA] Dynamic Programming mindset and state design
+DESCRIPTION:Day 36 of 190\nTrack: DSA Foundations and Mastery\nTopic: Dynamic Programming mindset and state design\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] Dynamic Programming mindset and state design
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-037-20260530@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260530T040000
+DTEND;TZID=Asia/Kolkata:20260530T060000
+SUMMARY:[DSA] [Weekend] DP on 1D sequences
+DESCRIPTION:Day 37 of 190\nTrack: DSA Foundations and Mastery\nTopic: DP on 1D sequences\nWeekend Session: Yes\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] [Weekend] DP on 1D sequences
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-038-20260531@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260531T040000
+DTEND;TZID=Asia/Kolkata:20260531T060000
+SUMMARY:[DSA] [Weekend] DP on 2D grids
+DESCRIPTION:Day 38 of 190\nTrack: DSA Foundations and Mastery\nTopic: DP on 2D grids\nWeekend Session: Yes\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] [Weekend] DP on 2D grids
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-039-20260601@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260601T040000
+DTEND;TZID=Asia/Kolkata:20260601T060000
+SUMMARY:[DSA] Knapsack pattern and subset DP
+DESCRIPTION:Day 39 of 190\nTrack: DSA Foundations and Mastery\nTopic: Knapsack pattern and subset DP\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] Knapsack pattern and subset DP
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-040-20260602@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260602T040000
+DTEND;TZID=Asia/Kolkata:20260602T060000
+SUMMARY:[DSA] Longest Increasing Subsequence and sequence DP
+DESCRIPTION:Day 40 of 190\nTrack: DSA Foundations and Mastery\nTopic: Longest Increasing Subsequence and sequence DP\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] Longest Increasing Subsequence and sequence DP
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-041-20260603@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260603T040000
+DTEND;TZID=Asia/Kolkata:20260603T060000
+SUMMARY:[DSA] Backtracking: subsets\, permutations\, combinations
+DESCRIPTION:Day 41 of 190\nTrack: DSA Foundations and Mastery\nTopic: Backtracking: subsets\, permutations\, combinations\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] Backtracking: subsets\, permutations\, combinations
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-042-20260604@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260604T040000
+DTEND;TZID=Asia/Kolkata:20260604T060000
+SUMMARY:[DSA] Practice day: DP + backtracking
+DESCRIPTION:Day 42 of 190\nTrack: DSA Foundations and Mastery\nTopic: Practice day: DP + backtracking\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] Practice day: DP + backtracking
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-043-20260605@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260605T040000
+DTEND;TZID=Asia/Kolkata:20260605T060000
+SUMMARY:[DSA] Greedy algorithms: when greedy works
+DESCRIPTION:Day 43 of 190\nTrack: DSA Foundations and Mastery\nTopic: Greedy algorithms: when greedy works\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] Greedy algorithms: when greedy works
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-044-20260606@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260606T040000
+DTEND;TZID=Asia/Kolkata:20260606T060000
+SUMMARY:[DSA] [Weekend] Intervals: merge\, overlap\, scheduling
+DESCRIPTION:Day 44 of 190\nTrack: DSA Foundations and Mastery\nTopic: Intervals: merge\, overlap\, scheduling\nWeekend Session: Yes\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] [Weekend] Intervals: merge\, overlap\, scheduling
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-045-20260607@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260607T040000
+DTEND;TZID=Asia/Kolkata:20260607T060000
+SUMMARY:[DSA] [Weekend] Bit manipulation fundamentals
+DESCRIPTION:Day 45 of 190\nTrack: DSA Foundations and Mastery\nTopic: Bit manipulation fundamentals\nWeekend Session: Yes\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] [Weekend] Bit manipulation fundamentals
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-046-20260608@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260608T040000
+DTEND;TZID=Asia/Kolkata:20260608T060000
+SUMMARY:[DSA] Math for coding interviews: gcd\, primes\, modular basics
+DESCRIPTION:Day 46 of 190\nTrack: DSA Foundations and Mastery\nTopic: Math for coding interviews: gcd\, primes\, modular basics\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] Math for coding interviews: gcd\, primes\, modular basics
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-047-20260609@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260609T040000
+DTEND;TZID=Asia/Kolkata:20260609T060000
+SUMMARY:[DSA] Advanced review: choosing the right data structure
+DESCRIPTION:Day 47 of 190\nTrack: DSA Foundations and Mastery\nTopic: Advanced review: choosing the right data structure\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] Advanced review: choosing the right data structure
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-048-20260610@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260610T040000
+DTEND;TZID=Asia/Kolkata:20260610T060000
+SUMMARY:[DSA] Mock coding interview 1
+DESCRIPTION:Day 48 of 190\nTrack: DSA Foundations and Mastery\nTopic: Mock coding interview 1\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] Mock coding interview 1
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-049-20260611@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260611T040000
+DTEND;TZID=Asia/Kolkata:20260611T060000
+SUMMARY:[DSA] DSA revision checkpoint + weak area analysis
+DESCRIPTION:Day 49 of 190\nTrack: DSA Foundations and Mastery\nTopic: DSA revision checkpoint + weak area analysis\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] DSA revision checkpoint + weak area analysis
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-050-20260612@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260612T040000
+DTEND;TZID=Asia/Kolkata:20260612T060000
+SUMMARY:[DSA] Advanced trees: segment tree basics
+DESCRIPTION:Day 50 of 190\nTrack: DSA Foundations and Mastery\nTopic: Advanced trees: segment tree basics\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] Advanced trees: segment tree basics
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-051-20260613@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260613T040000
+DTEND;TZID=Asia/Kolkata:20260613T060000
+SUMMARY:[DSA] [Weekend] Fenwick tree / Binary Indexed Tree basics
+DESCRIPTION:Day 51 of 190\nTrack: DSA Foundations and Mastery\nTopic: Fenwick tree / Binary Indexed Tree basics\nWeekend Session: Yes\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] [Weekend] Fenwick tree / Binary Indexed Tree basics
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-052-20260614@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260614T040000
+DTEND;TZID=Asia/Kolkata:20260614T060000
+SUMMARY:[DSA] [Weekend] Advanced graph ideas: bipartite graphs
+DESCRIPTION:Day 52 of 190\nTrack: DSA Foundations and Mastery\nTopic: Advanced graph ideas: bipartite graphs\nWeekend Session: Yes\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] [Weekend] Advanced graph ideas: bipartite graphs
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-053-20260615@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260615T040000
+DTEND;TZID=Asia/Kolkata:20260615T060000
+SUMMARY:[DSA] Advanced graph ideas: Floyd Warshall intuition
+DESCRIPTION:Day 53 of 190\nTrack: DSA Foundations and Mastery\nTopic: Advanced graph ideas: Floyd Warshall intuition\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] Advanced graph ideas: Floyd Warshall intuition
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-054-20260616@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260616T040000
+DTEND;TZID=Asia/Kolkata:20260616T060000
+SUMMARY:[DSA] String algorithms: KMP intuition
+DESCRIPTION:Day 54 of 190\nTrack: DSA Foundations and Mastery\nTopic: String algorithms: KMP intuition\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] String algorithms: KMP intuition
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-055-20260617@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260617T040000
+DTEND;TZID=Asia/Kolkata:20260617T060000
+SUMMARY:[DSA] String algorithms: rolling hash basics
+DESCRIPTION:Day 55 of 190\nTrack: DSA Foundations and Mastery\nTopic: String algorithms: rolling hash basics\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] String algorithms: rolling hash basics
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-056-20260618@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260618T040000
+DTEND;TZID=Asia/Kolkata:20260618T060000
+SUMMARY:[DSA] Practice day: advanced DSA mixed set
+DESCRIPTION:Day 56 of 190\nTrack: DSA Foundations and Mastery\nTopic: Practice day: advanced DSA mixed set\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] Practice day: advanced DSA mixed set
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-057-20260619@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260619T040000
+DTEND;TZID=Asia/Kolkata:20260619T060000
+SUMMARY:[DSA] Advanced DP: state transition practice
+DESCRIPTION:Day 57 of 190\nTrack: DSA Foundations and Mastery\nTopic: Advanced DP: state transition practice\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] Advanced DP: state transition practice
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-058-20260620@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260620T040000
+DTEND;TZID=Asia/Kolkata:20260620T060000
+SUMMARY:[DSA] [Weekend] Advanced DP: memoization vs tabulation
+DESCRIPTION:Day 58 of 190\nTrack: DSA Foundations and Mastery\nTopic: Advanced DP: memoization vs tabulation\nWeekend Session: Yes\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] [Weekend] Advanced DP: memoization vs tabulation
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-059-20260621@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260621T040000
+DTEND;TZID=Asia/Kolkata:20260621T060000
+SUMMARY:[DSA] [Weekend] DP on strings
+DESCRIPTION:Day 59 of 190\nTrack: DSA Foundations and Mastery\nTopic: DP on strings\nWeekend Session: Yes\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] [Weekend] DP on strings
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-060-20260622@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260622T040000
+DTEND;TZID=Asia/Kolkata:20260622T060000
+SUMMARY:[DSA] DP on trees intuition
+DESCRIPTION:Day 60 of 190\nTrack: DSA Foundations and Mastery\nTopic: DP on trees intuition\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] DP on trees intuition
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-061-20260623@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260623T040000
+DTEND;TZID=Asia/Kolkata:20260623T060000
+SUMMARY:[DSA] Graph shortest paths: Bellman-Ford intuition
+DESCRIPTION:Day 61 of 190\nTrack: DSA Foundations and Mastery\nTopic: Graph shortest paths: Bellman-Ford intuition\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] Graph shortest paths: Bellman-Ford intuition
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-062-20260624@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260624T040000
+DTEND;TZID=Asia/Kolkata:20260624T060000
+SUMMARY:[DSA] Strong interview patterns review
+DESCRIPTION:Day 62 of 190\nTrack: DSA Foundations and Mastery\nTopic: Strong interview patterns review\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] Strong interview patterns review
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-063-20260625@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260625T040000
+DTEND;TZID=Asia/Kolkata:20260625T060000
+SUMMARY:[DSA] Mixed DSA timed practice
+DESCRIPTION:Day 63 of 190\nTrack: DSA Foundations and Mastery\nTopic: Mixed DSA timed practice\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] Mixed DSA timed practice
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-064-20260626@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260626T040000
+DTEND;TZID=Asia/Kolkata:20260626T060000
+SUMMARY:[DSA] Binary search patterns masterclass
+DESCRIPTION:Day 64 of 190\nTrack: DSA Foundations and Mastery\nTopic: Binary search patterns masterclass\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] Binary search patterns masterclass
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-065-20260627@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260627T040000
+DTEND;TZID=Asia/Kolkata:20260627T060000
+SUMMARY:[DSA] [Weekend] Monotonic data structure problems
+DESCRIPTION:Day 65 of 190\nTrack: DSA Foundations and Mastery\nTopic: Monotonic data structure problems\nWeekend Session: Yes\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] [Weekend] Monotonic data structure problems
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-066-20260628@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260628T040000
+DTEND;TZID=Asia/Kolkata:20260628T060000
+SUMMARY:[DSA] [Weekend] Heap-based interview patterns
+DESCRIPTION:Day 66 of 190\nTrack: DSA Foundations and Mastery\nTopic: Heap-based interview patterns\nWeekend Session: Yes\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] [Weekend] Heap-based interview patterns
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-067-20260629@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260629T040000
+DTEND;TZID=Asia/Kolkata:20260629T060000
+SUMMARY:[DSA] Trie + prefix-based problems
+DESCRIPTION:Day 67 of 190\nTrack: DSA Foundations and Mastery\nTopic: Trie + prefix-based problems\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] Trie + prefix-based problems
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-068-20260630@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260630T040000
+DTEND;TZID=Asia/Kolkata:20260630T060000
+SUMMARY:[DSA] Greedy proof intuition
+DESCRIPTION:Day 68 of 190\nTrack: DSA Foundations and Mastery\nTopic: Greedy proof intuition\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] Greedy proof intuition
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-069-20260701@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260701T040000
+DTEND;TZID=Asia/Kolkata:20260701T060000
+SUMMARY:[DSA] Mock coding interview 2
+DESCRIPTION:Day 69 of 190\nTrack: DSA Foundations and Mastery\nTopic: Mock coding interview 2\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] Mock coding interview 2
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-070-20260702@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260702T040000
+DTEND;TZID=Asia/Kolkata:20260702T060000
+SUMMARY:[DSA] Revision + problem log cleanup
+DESCRIPTION:Day 70 of 190\nTrack: DSA Foundations and Mastery\nTopic: Revision + problem log cleanup\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] Revision + problem log cleanup
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-071-20260703@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260703T040000
+DTEND;TZID=Asia/Kolkata:20260703T060000
+SUMMARY:[DSA] Systematic debugging for coding rounds
+DESCRIPTION:Day 71 of 190\nTrack: DSA Foundations and Mastery\nTopic: Systematic debugging for coding rounds\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] Systematic debugging for coding rounds
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-072-20260704@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260704T040000
+DTEND;TZID=Asia/Kolkata:20260704T060000
+SUMMARY:[DSA] [Weekend] Communicating thought process in interviews
+DESCRIPTION:Day 72 of 190\nTrack: DSA Foundations and Mastery\nTopic: Communicating thought process in interviews\nWeekend Session: Yes\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] [Weekend] Communicating thought process in interviews
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-073-20260705@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260705T040000
+DTEND;TZID=Asia/Kolkata:20260705T060000
+SUMMARY:[DSA] [Weekend] Writing clean interview code
+DESCRIPTION:Day 73 of 190\nTrack: DSA Foundations and Mastery\nTopic: Writing clean interview code\nWeekend Session: Yes\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] [Weekend] Writing clean interview code
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-074-20260706@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260706T040000
+DTEND;TZID=Asia/Kolkata:20260706T060000
+SUMMARY:[DSA] Brute force to optimized transitions
+DESCRIPTION:Day 74 of 190\nTrack: DSA Foundations and Mastery\nTopic: Brute force to optimized transitions\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] Brute force to optimized transitions
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-075-20260707@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260707T040000
+DTEND;TZID=Asia/Kolkata:20260707T060000
+SUMMARY:[DSA] Recognizing hidden patterns in problems
+DESCRIPTION:Day 75 of 190\nTrack: DSA Foundations and Mastery\nTopic: Recognizing hidden patterns in problems\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] Recognizing hidden patterns in problems
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-076-20260708@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260708T040000
+DTEND;TZID=Asia/Kolkata:20260708T060000
+SUMMARY:[DSA] Mixed medium-level coding set
+DESCRIPTION:Day 76 of 190\nTrack: DSA Foundations and Mastery\nTopic: Mixed medium-level coding set\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] Mixed medium-level coding set
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-077-20260709@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260709T040000
+DTEND;TZID=Asia/Kolkata:20260709T060000
+SUMMARY:[DSA] Weekly assessment
+DESCRIPTION:Day 77 of 190\nTrack: DSA Foundations and Mastery\nTopic: Weekly assessment\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] Weekly assessment
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-078-20260710@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260710T040000
+DTEND;TZID=Asia/Kolkata:20260710T060000
+SUMMARY:[DSA] Timed contest-style practice 1
+DESCRIPTION:Day 78 of 190\nTrack: DSA Foundations and Mastery\nTopic: Timed contest-style practice 1\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] Timed contest-style practice 1
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-079-20260711@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260711T040000
+DTEND;TZID=Asia/Kolkata:20260711T060000
+SUMMARY:[DSA] [Weekend] Timed contest-style practice 2
+DESCRIPTION:Day 79 of 190\nTrack: DSA Foundations and Mastery\nTopic: Timed contest-style practice 2\nWeekend Session: Yes\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] [Weekend] Timed contest-style practice 2
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-080-20260712@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260712T040000
+DTEND;TZID=Asia/Kolkata:20260712T060000
+SUMMARY:[DSA] [Weekend] Timed contest-style practice 3
+DESCRIPTION:Day 80 of 190\nTrack: DSA Foundations and Mastery\nTopic: Timed contest-style practice 3\nWeekend Session: Yes\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] [Weekend] Timed contest-style practice 3
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-081-20260713@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260713T040000
+DTEND;TZID=Asia/Kolkata:20260713T060000
+SUMMARY:[DSA] Weak area repair: DP
+DESCRIPTION:Day 81 of 190\nTrack: DSA Foundations and Mastery\nTopic: Weak area repair: DP\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] Weak area repair: DP
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-082-20260714@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260714T040000
+DTEND;TZID=Asia/Kolkata:20260714T060000
+SUMMARY:[DSA] Weak area repair: graphs
+DESCRIPTION:Day 82 of 190\nTrack: DSA Foundations and Mastery\nTopic: Weak area repair: graphs\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] Weak area repair: graphs
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-083-20260715@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260715T040000
+DTEND;TZID=Asia/Kolkata:20260715T060000
+SUMMARY:[DSA] Weak area repair: trees
+DESCRIPTION:Day 83 of 190\nTrack: DSA Foundations and Mastery\nTopic: Weak area repair: trees\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] Weak area repair: trees
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-084-20260716@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260716T040000
+DTEND;TZID=Asia/Kolkata:20260716T060000
+SUMMARY:[DSA] Month 3 revision checkpoint
+DESCRIPTION:Day 84 of 190\nTrack: DSA Foundations and Mastery\nTopic: Month 3 revision checkpoint\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [DSA] Month 3 revision checkpoint
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-085-20260717@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260717T040000
+DTEND;TZID=Asia/Kolkata:20260717T060000
+SUMMARY:[System Design] System Design foundations: what system design is
+DESCRIPTION:Day 85 of 190\nTrack: System Design Foundations and Applied Design\nTopic: System Design foundations: what system design is\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [System Design] System Design foundations: what system design is
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-086-20260718@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260718T040000
+DTEND;TZID=Asia/Kolkata:20260718T060000
+SUMMARY:[System Design] [Weekend] Functional vs non-functional requirements
+DESCRIPTION:Day 86 of 190\nTrack: System Design Foundations and Applied Design\nTopic: Functional vs non-functional requirements\nWeekend Session: Yes\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [System Design] [Weekend] Functional vs non-functional requirements
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-087-20260719@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260719T040000
+DTEND;TZID=Asia/Kolkata:20260719T060000
+SUMMARY:[System Design] [Weekend] Scalability\, reliability\, availability\, maintainability
+DESCRIPTION:Day 87 of 190\nTrack: System Design Foundations and Applied Design\nTopic: Scalability\, reliability\, availability\, maintainability\nWeekend Session: Yes\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [System Design] [Weekend] Scalability\, reliability\, availability\, maintainability
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-088-20260720@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260720T040000
+DTEND;TZID=Asia/Kolkata:20260720T060000
+SUMMARY:[System Design] Latency\, throughput\, CAP\, consistency models
+DESCRIPTION:Day 88 of 190\nTrack: System Design Foundations and Applied Design\nTopic: Latency\, throughput\, CAP\, consistency models\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [System Design] Latency\, throughput\, CAP\, consistency models
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-089-20260721@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260721T040000
+DTEND;TZID=Asia/Kolkata:20260721T060000
+SUMMARY:[System Design] Load balancing and reverse proxies
+DESCRIPTION:Day 89 of 190\nTrack: System Design Foundations and Applied Design\nTopic: Load balancing and reverse proxies\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [System Design] Load balancing and reverse proxies
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-090-20260722@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260722T040000
+DTEND;TZID=Asia/Kolkata:20260722T060000
+SUMMARY:[System Design] Caching fundamentals and cache patterns
+DESCRIPTION:Day 90 of 190\nTrack: System Design Foundations and Applied Design\nTopic: Caching fundamentals and cache patterns\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [System Design] Caching fundamentals and cache patterns
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-091-20260723@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260723T040000
+DTEND;TZID=Asia/Kolkata:20260723T060000
+SUMMARY:[System Design] Design exercise: URL shortener part 1
+DESCRIPTION:Day 91 of 190\nTrack: System Design Foundations and Applied Design\nTopic: Design exercise: URL shortener part 1\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [System Design] Design exercise: URL shortener part 1
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-092-20260724@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260724T040000
+DTEND;TZID=Asia/Kolkata:20260724T060000
+SUMMARY:[System Design] Databases: SQL vs NoSQL
+DESCRIPTION:Day 92 of 190\nTrack: System Design Foundations and Applied Design\nTopic: Databases: SQL vs NoSQL\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [System Design] Databases: SQL vs NoSQL
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-093-20260725@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260725T040000
+DTEND;TZID=Asia/Kolkata:20260725T060000
+SUMMARY:[System Design] [Weekend] Indexing\, partitioning\, sharding basics
+DESCRIPTION:Day 93 of 190\nTrack: System Design Foundations and Applied Design\nTopic: Indexing\, partitioning\, sharding basics\nWeekend Session: Yes\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [System Design] [Weekend] Indexing\, partitioning\, sharding basics
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-094-20260726@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260726T040000
+DTEND;TZID=Asia/Kolkata:20260726T060000
+SUMMARY:[System Design] [Weekend] Replication and consistency tradeoffs
+DESCRIPTION:Day 94 of 190\nTrack: System Design Foundations and Applied Design\nTopic: Replication and consistency tradeoffs\nWeekend Session: Yes\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [System Design] [Weekend] Replication and consistency tradeoffs
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-095-20260727@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260727T040000
+DTEND;TZID=Asia/Kolkata:20260727T060000
+SUMMARY:[System Design] Messaging queues and event-driven architecture
+DESCRIPTION:Day 95 of 190\nTrack: System Design Foundations and Applied Design\nTopic: Messaging queues and event-driven architecture\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [System Design] Messaging queues and event-driven architecture
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-096-20260728@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260728T040000
+DTEND;TZID=Asia/Kolkata:20260728T060000
+SUMMARY:[System Design] API design fundamentals and idempotency
+DESCRIPTION:Day 96 of 190\nTrack: System Design Foundations and Applied Design\nTopic: API design fundamentals and idempotency\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [System Design] API design fundamentals and idempotency
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-097-20260729@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260729T040000
+DTEND;TZID=Asia/Kolkata:20260729T060000
+SUMMARY:[System Design] Rate limiting and throttling
+DESCRIPTION:Day 97 of 190\nTrack: System Design Foundations and Applied Design\nTopic: Rate limiting and throttling\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [System Design] Rate limiting and throttling
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-098-20260730@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260730T040000
+DTEND;TZID=Asia/Kolkata:20260730T060000
+SUMMARY:[System Design] Design exercise: URL shortener part 2
+DESCRIPTION:Day 98 of 190\nTrack: System Design Foundations and Applied Design\nTopic: Design exercise: URL shortener part 2\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [System Design] Design exercise: URL shortener part 2
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-099-20260731@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260731T040000
+DTEND;TZID=Asia/Kolkata:20260731T060000
+SUMMARY:[System Design] Storage systems\, blobs\, CDN basics
+DESCRIPTION:Day 99 of 190\nTrack: System Design Foundations and Applied Design\nTopic: Storage systems\, blobs\, CDN basics\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [System Design] Storage systems\, blobs\, CDN basics
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-100-20260801@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260801T040000
+DTEND;TZID=Asia/Kolkata:20260801T060000
+SUMMARY:[System Design] [Weekend] Authentication\, authorization\, sessions\, tokens
+DESCRIPTION:Day 100 of 190\nTrack: System Design Foundations and Applied Design\nTopic: Authentication\, authorization\, sessions\, tokens\nWeekend Session: Yes\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [System Design] [Weekend] Authentication\, authorization\, sessions\, tokens
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-101-20260802@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260802T040000
+DTEND;TZID=Asia/Kolkata:20260802T060000
+SUMMARY:[System Design] [Weekend] Observability: logging\, metrics\, tracing
+DESCRIPTION:Day 101 of 190\nTrack: System Design Foundations and Applied Design\nTopic: Observability: logging\, metrics\, tracing\nWeekend Session: Yes\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [System Design] [Weekend] Observability: logging\, metrics\, tracing
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-102-20260803@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260803T040000
+DTEND;TZID=Asia/Kolkata:20260803T060000
+SUMMARY:[System Design] Fault tolerance\, retries\, timeouts\, circuit breakers
+DESCRIPTION:Day 102 of 190\nTrack: System Design Foundations and Applied Design\nTopic: Fault tolerance\, retries\, timeouts\, circuit breakers\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [System Design] Fault tolerance\, retries\, timeouts\, circuit breakers
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-103-20260804@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260804T040000
+DTEND;TZID=Asia/Kolkata:20260804T060000
+SUMMARY:[System Design] Microservices vs monoliths
+DESCRIPTION:Day 103 of 190\nTrack: System Design Foundations and Applied Design\nTopic: Microservices vs monoliths\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [System Design] Microservices vs monoliths
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-104-20260805@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260805T040000
+DTEND;TZID=Asia/Kolkata:20260805T060000
+SUMMARY:[System Design] Design exercise: chat system part 1
+DESCRIPTION:Day 104 of 190\nTrack: System Design Foundations and Applied Design\nTopic: Design exercise: chat system part 1\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [System Design] Design exercise: chat system part 1
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-105-20260806@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260806T040000
+DTEND;TZID=Asia/Kolkata:20260806T060000
+SUMMARY:[System Design] Revision + system design foundations checkpoint
+DESCRIPTION:Day 105 of 190\nTrack: System Design Foundations and Applied Design\nTopic: Revision + system design foundations checkpoint\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [System Design] Revision + system design foundations checkpoint
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-106-20260807@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260807T040000
+DTEND;TZID=Asia/Kolkata:20260807T060000
+SUMMARY:[System Design] Designing a chat system part 2
+DESCRIPTION:Day 106 of 190\nTrack: System Design Foundations and Applied Design\nTopic: Designing a chat system part 2\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [System Design] Designing a chat system part 2
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-107-20260808@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260808T040000
+DTEND;TZID=Asia/Kolkata:20260808T060000
+SUMMARY:[System Design] [Weekend] Notification system design
+DESCRIPTION:Day 107 of 190\nTrack: System Design Foundations and Applied Design\nTopic: Notification system design\nWeekend Session: Yes\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [System Design] [Weekend] Notification system design
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-108-20260809@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260809T040000
+DTEND;TZID=Asia/Kolkata:20260809T060000
+SUMMARY:[System Design] [Weekend] Feed / timeline system design basics
+DESCRIPTION:Day 108 of 190\nTrack: System Design Foundations and Applied Design\nTopic: Feed / timeline system design basics\nWeekend Session: Yes\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [System Design] [Weekend] Feed / timeline system design basics
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-109-20260810@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260810T040000
+DTEND;TZID=Asia/Kolkata:20260810T060000
+SUMMARY:[System Design] Search system design fundamentals
+DESCRIPTION:Day 109 of 190\nTrack: System Design Foundations and Applied Design\nTopic: Search system design fundamentals\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [System Design] Search system design fundamentals
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-110-20260811@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260811T040000
+DTEND;TZID=Asia/Kolkata:20260811T060000
+SUMMARY:[System Design] File storage / Dropbox-like system basics
+DESCRIPTION:Day 110 of 190\nTrack: System Design Foundations and Applied Design\nTopic: File storage / Dropbox-like system basics\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [System Design] File storage / Dropbox-like system basics
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-111-20260812@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260812T040000
+DTEND;TZID=Asia/Kolkata:20260812T060000
+SUMMARY:[System Design] Practice: estimate scale and bottlenecks
+DESCRIPTION:Day 111 of 190\nTrack: System Design Foundations and Applied Design\nTopic: Practice: estimate scale and bottlenecks\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [System Design] Practice: estimate scale and bottlenecks
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-112-20260813@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260813T040000
+DTEND;TZID=Asia/Kolkata:20260813T060000
+SUMMARY:[System Design] Mock system design interview 1
+DESCRIPTION:Day 112 of 190\nTrack: System Design Foundations and Applied Design\nTopic: Mock system design interview 1\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [System Design] Mock system design interview 1
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-113-20260814@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260814T040000
+DTEND;TZID=Asia/Kolkata:20260814T060000
+SUMMARY:[System Design] Designing an e-commerce backend
+DESCRIPTION:Day 113 of 190\nTrack: System Design Foundations and Applied Design\nTopic: Designing an e-commerce backend\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [System Design] Designing an e-commerce backend
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-114-20260815@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260815T040000
+DTEND;TZID=Asia/Kolkata:20260815T060000
+SUMMARY:[System Design] [Weekend] Payment workflow basics and failure handling
+DESCRIPTION:Day 114 of 190\nTrack: System Design Foundations and Applied Design\nTopic: Payment workflow basics and failure handling\nWeekend Session: Yes\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [System Design] [Weekend] Payment workflow basics and failure handling
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-115-20260816@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260816T040000
+DTEND;TZID=Asia/Kolkata:20260816T060000
+SUMMARY:[System Design] [Weekend] Booking / reservation system design
+DESCRIPTION:Day 115 of 190\nTrack: System Design Foundations and Applied Design\nTopic: Booking / reservation system design\nWeekend Session: Yes\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [System Design] [Weekend] Booking / reservation system design
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-116-20260817@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260817T040000
+DTEND;TZID=Asia/Kolkata:20260817T060000
+SUMMARY:[System Design] Designing for multi-region deployment
+DESCRIPTION:Day 116 of 190\nTrack: System Design Foundations and Applied Design\nTopic: Designing for multi-region deployment\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [System Design] Designing for multi-region deployment
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-117-20260818@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260818T040000
+DTEND;TZID=Asia/Kolkata:20260818T060000
+SUMMARY:[System Design] Data modeling and schema evolution
+DESCRIPTION:Day 117 of 190\nTrack: System Design Foundations and Applied Design\nTopic: Data modeling and schema evolution\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [System Design] Data modeling and schema evolution
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-118-20260819@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260819T040000
+DTEND;TZID=Asia/Kolkata:20260819T060000
+SUMMARY:[System Design] Practice: tradeoff articulation and bottleneck fixes
+DESCRIPTION:Day 118 of 190\nTrack: System Design Foundations and Applied Design\nTopic: Practice: tradeoff articulation and bottleneck fixes\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [System Design] Practice: tradeoff articulation and bottleneck fixes
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-119-20260820@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260820T040000
+DTEND;TZID=Asia/Kolkata:20260820T060000
+SUMMARY:[System Design] Mock system design interview 2
+DESCRIPTION:Day 119 of 190\nTrack: System Design Foundations and Applied Design\nTopic: Mock system design interview 2\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [System Design] Mock system design interview 2
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-120-20260821@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260821T040000
+DTEND;TZID=Asia/Kolkata:20260821T060000
+SUMMARY:[System Design] Advanced caching: eviction\, invalidation\, hot keys
+DESCRIPTION:Day 120 of 190\nTrack: System Design Foundations and Applied Design\nTopic: Advanced caching: eviction\, invalidation\, hot keys\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [System Design] Advanced caching: eviction\, invalidation\, hot keys
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-121-20260822@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260822T040000
+DTEND;TZID=Asia/Kolkata:20260822T060000
+SUMMARY:[System Design] [Weekend] Advanced databases: read replicas and failover
+DESCRIPTION:Day 121 of 190\nTrack: System Design Foundations and Applied Design\nTopic: Advanced databases: read replicas and failover\nWeekend Session: Yes\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [System Design] [Weekend] Advanced databases: read replicas and failover
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-122-20260823@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260823T040000
+DTEND;TZID=Asia/Kolkata:20260823T060000
+SUMMARY:[System Design] [Weekend] Distributed transactions and saga intuition
+DESCRIPTION:Day 122 of 190\nTrack: System Design Foundations and Applied Design\nTopic: Distributed transactions and saga intuition\nWeekend Session: Yes\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [System Design] [Weekend] Distributed transactions and saga intuition
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-123-20260824@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260824T040000
+DTEND;TZID=Asia/Kolkata:20260824T060000
+SUMMARY:[System Design] ID generation strategies at scale
+DESCRIPTION:Day 123 of 190\nTrack: System Design Foundations and Applied Design\nTopic: ID generation strategies at scale\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [System Design] ID generation strategies at scale
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-124-20260825@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260825T040000
+DTEND;TZID=Asia/Kolkata:20260825T060000
+SUMMARY:[System Design] Message ordering\, deduplication\, exactly-once myths
+DESCRIPTION:Day 124 of 190\nTrack: System Design Foundations and Applied Design\nTopic: Message ordering\, deduplication\, exactly-once myths\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [System Design] Message ordering\, deduplication\, exactly-once myths
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-125-20260826@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260826T040000
+DTEND;TZID=Asia/Kolkata:20260826T060000
+SUMMARY:[System Design] Design deep dive: real-time notifications
+DESCRIPTION:Day 125 of 190\nTrack: System Design Foundations and Applied Design\nTopic: Design deep dive: real-time notifications\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [System Design] Design deep dive: real-time notifications
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-126-20260827@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260827T040000
+DTEND;TZID=Asia/Kolkata:20260827T060000
+SUMMARY:[System Design] Practice day: distributed systems patterns
+DESCRIPTION:Day 126 of 190\nTrack: System Design Foundations and Applied Design\nTopic: Practice day: distributed systems patterns\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [System Design] Practice day: distributed systems patterns
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-127-20260828@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260828T040000
+DTEND;TZID=Asia/Kolkata:20260828T060000
+SUMMARY:[System Design] Low-level estimation: QPS\, storage\, bandwidth
+DESCRIPTION:Day 127 of 190\nTrack: System Design Foundations and Applied Design\nTopic: Low-level estimation: QPS\, storage\, bandwidth\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [System Design] Low-level estimation: QPS\, storage\, bandwidth
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-128-20260829@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260829T040000
+DTEND;TZID=Asia/Kolkata:20260829T060000
+SUMMARY:[System Design] [Weekend] High-level architecture storytelling
+DESCRIPTION:Day 128 of 190\nTrack: System Design Foundations and Applied Design\nTopic: High-level architecture storytelling\nWeekend Session: Yes\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [System Design] [Weekend] High-level architecture storytelling
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-129-20260830@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260830T040000
+DTEND;TZID=Asia/Kolkata:20260830T060000
+SUMMARY:[System Design] [Weekend] How to answer system design interview questions
+DESCRIPTION:Day 129 of 190\nTrack: System Design Foundations and Applied Design\nTopic: How to answer system design interview questions\nWeekend Session: Yes\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [System Design] [Weekend] How to answer system design interview questions
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-130-20260831@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260831T040000
+DTEND;TZID=Asia/Kolkata:20260831T060000
+SUMMARY:[System Design] Common tradeoffs: consistency vs availability
+DESCRIPTION:Day 130 of 190\nTrack: System Design Foundations and Applied Design\nTopic: Common tradeoffs: consistency vs availability\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [System Design] Common tradeoffs: consistency vs availability
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-131-20260901@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260901T040000
+DTEND;TZID=Asia/Kolkata:20260901T060000
+SUMMARY:[System Design] Common tradeoffs: latency vs cost
+DESCRIPTION:Day 131 of 190\nTrack: System Design Foundations and Applied Design\nTopic: Common tradeoffs: latency vs cost\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [System Design] Common tradeoffs: latency vs cost
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-132-20260902@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260902T040000
+DTEND;TZID=Asia/Kolkata:20260902T060000
+SUMMARY:[System Design] Design review: improve a weak architecture
+DESCRIPTION:Day 132 of 190\nTrack: System Design Foundations and Applied Design\nTopic: Design review: improve a weak architecture\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [System Design] Design review: improve a weak architecture
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-133-20260903@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260903T040000
+DTEND;TZID=Asia/Kolkata:20260903T060000
+SUMMARY:[System Design] Mock system design interview 3
+DESCRIPTION:Day 133 of 190\nTrack: System Design Foundations and Applied Design\nTopic: Mock system design interview 3\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [System Design] Mock system design interview 3
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-134-20260904@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260904T040000
+DTEND;TZID=Asia/Kolkata:20260904T060000
+SUMMARY:[System Design] Case study: social media feed
+DESCRIPTION:Day 134 of 190\nTrack: System Design Foundations and Applied Design\nTopic: Case study: social media feed\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [System Design] Case study: social media feed
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-135-20260905@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260905T040000
+DTEND;TZID=Asia/Kolkata:20260905T060000
+SUMMARY:[System Design] [Weekend] Case study: ride-sharing system
+DESCRIPTION:Day 135 of 190\nTrack: System Design Foundations and Applied Design\nTopic: Case study: ride-sharing system\nWeekend Session: Yes\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [System Design] [Weekend] Case study: ride-sharing system
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-136-20260906@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260906T040000
+DTEND;TZID=Asia/Kolkata:20260906T060000
+SUMMARY:[System Design] [Weekend] Case study: video streaming system
+DESCRIPTION:Day 136 of 190\nTrack: System Design Foundations and Applied Design\nTopic: Case study: video streaming system\nWeekend Session: Yes\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [System Design] [Weekend] Case study: video streaming system
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-137-20260907@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260907T040000
+DTEND;TZID=Asia/Kolkata:20260907T060000
+SUMMARY:[System Design] Case study: file sync service
+DESCRIPTION:Day 137 of 190\nTrack: System Design Foundations and Applied Design\nTopic: Case study: file sync service\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [System Design] Case study: file sync service
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-138-20260908@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260908T040000
+DTEND;TZID=Asia/Kolkata:20260908T060000
+SUMMARY:[System Design] Case study: notification fanout
+DESCRIPTION:Day 138 of 190\nTrack: System Design Foundations and Applied Design\nTopic: Case study: notification fanout\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [System Design] Case study: notification fanout
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-139-20260909@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260909T040000
+DTEND;TZID=Asia/Kolkata:20260909T060000
+SUMMARY:[System Design] Mixed design round
+DESCRIPTION:Day 139 of 190\nTrack: System Design Foundations and Applied Design\nTopic: Mixed design round\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [System Design] Mixed design round
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-140-20260910@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260910T040000
+DTEND;TZID=Asia/Kolkata:20260910T060000
+SUMMARY:[System Design] Month 5 revision checkpoint
+DESCRIPTION:Day 140 of 190\nTrack: System Design Foundations and Applied Design\nTopic: Month 5 revision checkpoint\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [System Design] Month 5 revision checkpoint
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-141-20260911@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260911T040000
+DTEND;TZID=Asia/Kolkata:20260911T060000
+SUMMARY:[Mixed] DSA mixed mock interview 3
+DESCRIPTION:Day 141 of 190\nTrack: Interview Mastery / Revision\nTopic: DSA mixed mock interview 3\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Mixed] DSA mixed mock interview 3
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-142-20260912@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260912T040000
+DTEND;TZID=Asia/Kolkata:20260912T060000
+SUMMARY:[Mixed] [Weekend] DSA mixed mock interview 4
+DESCRIPTION:Day 142 of 190\nTrack: Interview Mastery / Revision\nTopic: DSA mixed mock interview 4\nWeekend Session: Yes\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Mixed] [Weekend] DSA mixed mock interview 4
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-143-20260913@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260913T040000
+DTEND;TZID=Asia/Kolkata:20260913T060000
+SUMMARY:[Mixed] [Weekend] System design + coding combined round
+DESCRIPTION:Day 143 of 190\nTrack: Interview Mastery / Revision\nTopic: System design + coding combined round\nWeekend Session: Yes\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Mixed] [Weekend] System design + coding combined round
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-144-20260914@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260914T040000
+DTEND;TZID=Asia/Kolkata:20260914T060000
+SUMMARY:[Mixed] Behavioral storytelling for technical interviews
+DESCRIPTION:Day 144 of 190\nTrack: Interview Mastery / Revision\nTopic: Behavioral storytelling for technical interviews\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Mixed] Behavioral storytelling for technical interviews
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-145-20260915@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260915T040000
+DTEND;TZID=Asia/Kolkata:20260915T060000
+SUMMARY:[Mixed] Debugging and communicating under pressure
+DESCRIPTION:Day 145 of 190\nTrack: Interview Mastery / Revision\nTopic: Debugging and communicating under pressure\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Mixed] Debugging and communicating under pressure
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-146-20260916@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260916T040000
+DTEND;TZID=Asia/Kolkata:20260916T060000
+SUMMARY:[Mixed] Revision day: top 20 DSA patterns
+DESCRIPTION:Day 146 of 190\nTrack: Interview Mastery / Revision\nTopic: Revision day: top 20 DSA patterns\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Mixed] Revision day: top 20 DSA patterns
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-147-20260917@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260917T040000
+DTEND;TZID=Asia/Kolkata:20260917T060000
+SUMMARY:[Mixed] Revision day: top 20 system design patterns
+DESCRIPTION:Day 147 of 190\nTrack: Interview Mastery / Revision\nTopic: Revision day: top 20 system design patterns\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Mixed] Revision day: top 20 system design patterns
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-148-20260918@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260918T040000
+DTEND;TZID=Asia/Kolkata:20260918T060000
+SUMMARY:[Mixed] Capstone design: scalable social app part 1
+DESCRIPTION:Day 148 of 190\nTrack: Interview Mastery / Revision\nTopic: Capstone design: scalable social app part 1\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Mixed] Capstone design: scalable social app part 1
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-149-20260919@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260919T040000
+DTEND;TZID=Asia/Kolkata:20260919T060000
+SUMMARY:[Mixed] [Weekend] Capstone design: scalable social app part 2
+DESCRIPTION:Day 149 of 190\nTrack: Interview Mastery / Revision\nTopic: Capstone design: scalable social app part 2\nWeekend Session: Yes\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Mixed] [Weekend] Capstone design: scalable social app part 2
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-150-20260920@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260920T040000
+DTEND;TZID=Asia/Kolkata:20260920T060000
+SUMMARY:[Mixed] [Weekend] Capstone design: scalable social app part 3
+DESCRIPTION:Day 150 of 190\nTrack: Interview Mastery / Revision\nTopic: Capstone design: scalable social app part 3\nWeekend Session: Yes\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Mixed] [Weekend] Capstone design: scalable social app part 3
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-151-20260921@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260921T040000
+DTEND;TZID=Asia/Kolkata:20260921T060000
+SUMMARY:[Mixed] Capstone design: architecture review and tradeoffs
+DESCRIPTION:Day 151 of 190\nTrack: Interview Mastery / Revision\nTopic: Capstone design: architecture review and tradeoffs\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Mixed] Capstone design: architecture review and tradeoffs
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-152-20260922@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260922T040000
+DTEND;TZID=Asia/Kolkata:20260922T060000
+SUMMARY:[Mixed] Capstone coding drill: arrays + hashing
+DESCRIPTION:Day 152 of 190\nTrack: Interview Mastery / Revision\nTopic: Capstone coding drill: arrays + hashing\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Mixed] Capstone coding drill: arrays + hashing
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-153-20260923@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260923T040000
+DTEND;TZID=Asia/Kolkata:20260923T060000
+SUMMARY:[Mixed] Capstone coding drill: trees + graphs
+DESCRIPTION:Day 153 of 190\nTrack: Interview Mastery / Revision\nTopic: Capstone coding drill: trees + graphs\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Mixed] Capstone coding drill: trees + graphs
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-154-20260924@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260924T040000
+DTEND;TZID=Asia/Kolkata:20260924T060000
+SUMMARY:[Mixed] Weekly assessment + reflection
+DESCRIPTION:Day 154 of 190\nTrack: Interview Mastery / Revision\nTopic: Weekly assessment + reflection\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Mixed] Weekly assessment + reflection
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-155-20260925@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260925T040000
+DTEND;TZID=Asia/Kolkata:20260925T060000
+SUMMARY:[Mixed] Targeted weak area repair: dynamic programming
+DESCRIPTION:Day 155 of 190\nTrack: Interview Mastery / Revision\nTopic: Targeted weak area repair: dynamic programming\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Mixed] Targeted weak area repair: dynamic programming
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-156-20260926@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260926T040000
+DTEND;TZID=Asia/Kolkata:20260926T060000
+SUMMARY:[Mixed] [Weekend] Targeted weak area repair: graphs
+DESCRIPTION:Day 156 of 190\nTrack: Interview Mastery / Revision\nTopic: Targeted weak area repair: graphs\nWeekend Session: Yes\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Mixed] [Weekend] Targeted weak area repair: graphs
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-157-20260927@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260927T040000
+DTEND;TZID=Asia/Kolkata:20260927T060000
+SUMMARY:[Mixed] [Weekend] Targeted weak area repair: system design fundamentals
+DESCRIPTION:Day 157 of 190\nTrack: Interview Mastery / Revision\nTopic: Targeted weak area repair: system design fundamentals\nWeekend Session: Yes\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Mixed] [Weekend] Targeted weak area repair: system design fundamentals
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-158-20260928@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260928T040000
+DTEND;TZID=Asia/Kolkata:20260928T060000
+SUMMARY:[Mixed] Targeted weak area repair: databases and caching
+DESCRIPTION:Day 158 of 190\nTrack: Interview Mastery / Revision\nTopic: Targeted weak area repair: databases and caching\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Mixed] Targeted weak area repair: databases and caching
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-159-20260929@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260929T040000
+DTEND;TZID=Asia/Kolkata:20260929T060000
+SUMMARY:[Mixed] Targeted weak area repair: communication and clarity
+DESCRIPTION:Day 159 of 190\nTrack: Interview Mastery / Revision\nTopic: Targeted weak area repair: communication and clarity\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Mixed] Targeted weak area repair: communication and clarity
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-160-20260930@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20260930T040000
+DTEND;TZID=Asia/Kolkata:20260930T060000
+SUMMARY:[Mixed] Mock coding interview 5
+DESCRIPTION:Day 160 of 190\nTrack: Interview Mastery / Revision\nTopic: Mock coding interview 5\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Mixed] Mock coding interview 5
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-161-20261001@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20261001T040000
+DTEND;TZID=Asia/Kolkata:20261001T060000
+SUMMARY:[Mixed] Mock system design interview 4
+DESCRIPTION:Day 161 of 190\nTrack: Interview Mastery / Revision\nTopic: Mock system design interview 4\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Mixed] Mock system design interview 4
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-162-20261002@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20261002T040000
+DTEND;TZID=Asia/Kolkata:20261002T060000
+SUMMARY:[Mixed] LeetCode-style interview set 1
+DESCRIPTION:Day 162 of 190\nTrack: Interview Mastery / Revision\nTopic: LeetCode-style interview set 1\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Mixed] LeetCode-style interview set 1
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-163-20261003@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20261003T040000
+DTEND;TZID=Asia/Kolkata:20261003T060000
+SUMMARY:[Mixed] [Weekend] LeetCode-style interview set 2
+DESCRIPTION:Day 163 of 190\nTrack: Interview Mastery / Revision\nTopic: LeetCode-style interview set 2\nWeekend Session: Yes\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Mixed] [Weekend] LeetCode-style interview set 2
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-164-20261004@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20261004T040000
+DTEND;TZID=Asia/Kolkata:20261004T060000
+SUMMARY:[Mixed] [Weekend] LeetCode-style interview set 3
+DESCRIPTION:Day 164 of 190\nTrack: Interview Mastery / Revision\nTopic: LeetCode-style interview set 3\nWeekend Session: Yes\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Mixed] [Weekend] LeetCode-style interview set 3
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-165-20261005@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20261005T040000
+DTEND;TZID=Asia/Kolkata:20261005T060000
+SUMMARY:[Mixed] Design a notification system from scratch
+DESCRIPTION:Day 165 of 190\nTrack: Interview Mastery / Revision\nTopic: Design a notification system from scratch\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Mixed] Design a notification system from scratch
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-166-20261006@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20261006T040000
+DTEND;TZID=Asia/Kolkata:20261006T060000
+SUMMARY:[Mixed] Design a booking system from scratch
+DESCRIPTION:Day 166 of 190\nTrack: Interview Mastery / Revision\nTopic: Design a booking system from scratch\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Mixed] Design a booking system from scratch
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-167-20261007@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20261007T040000
+DTEND;TZID=Asia/Kolkata:20261007T060000
+SUMMARY:[Mixed] Compare two architectures and justify one
+DESCRIPTION:Day 167 of 190\nTrack: Interview Mastery / Revision\nTopic: Compare two architectures and justify one\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Mixed] Compare two architectures and justify one
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-168-20261008@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20261008T040000
+DTEND;TZID=Asia/Kolkata:20261008T060000
+SUMMARY:[Mixed] Weekly assessment + revision
+DESCRIPTION:Day 168 of 190\nTrack: Interview Mastery / Revision\nTopic: Weekly assessment + revision\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Mixed] Weekly assessment + revision
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-169-20261009@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20261009T040000
+DTEND;TZID=Asia/Kolkata:20261009T060000
+SUMMARY:[Mixed] Final review: DSA patterns recap
+DESCRIPTION:Day 169 of 190\nTrack: Interview Mastery / Revision\nTopic: Final review: DSA patterns recap\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Mixed] Final review: DSA patterns recap
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-170-20261010@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20261010T040000
+DTEND;TZID=Asia/Kolkata:20261010T060000
+SUMMARY:[Mixed] [Weekend] Final review: system design building blocks recap
+DESCRIPTION:Day 170 of 190\nTrack: Interview Mastery / Revision\nTopic: Final review: system design building blocks recap\nWeekend Session: Yes\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Mixed] [Weekend] Final review: system design building blocks recap
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-171-20261011@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20261011T040000
+DTEND;TZID=Asia/Kolkata:20261011T060000
+SUMMARY:[Mixed] [Weekend] Mixed interview drills: coding + design
+DESCRIPTION:Day 171 of 190\nTrack: Interview Mastery / Revision\nTopic: Mixed interview drills: coding + design\nWeekend Session: Yes\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Mixed] [Weekend] Mixed interview drills: coding + design
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-172-20261012@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20261012T040000
+DTEND;TZID=Asia/Kolkata:20261012T060000
+SUMMARY:[Mixed] Resume-style project discussion and storytelling
+DESCRIPTION:Day 172 of 190\nTrack: Interview Mastery / Revision\nTopic: Resume-style project discussion and storytelling\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Mixed] Resume-style project discussion and storytelling
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-173-20261013@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20261013T040000
+DTEND;TZID=Asia/Kolkata:20261013T060000
+SUMMARY:[Mixed] Final self-assessment + next 6 months roadmap
+DESCRIPTION:Day 173 of 190\nTrack: Interview Mastery / Revision\nTopic: Final self-assessment + next 6 months roadmap\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Mixed] Final self-assessment + next 6 months roadmap
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-174-20261014@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20261014T040000
+DTEND;TZID=Asia/Kolkata:20261014T060000
+SUMMARY:[Mixed] Buffer / catch-up / reflection day
+DESCRIPTION:Day 174 of 190\nTrack: Interview Mastery / Revision\nTopic: Buffer / catch-up / reflection day\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Mixed] Buffer / catch-up / reflection day
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-175-20261015@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20261015T040000
+DTEND;TZID=Asia/Kolkata:20261015T060000
+SUMMARY:[Mixed] Celebration + long-term consistency plan
+DESCRIPTION:Day 175 of 190\nTrack: Interview Mastery / Revision\nTopic: Celebration + long-term consistency plan\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Mixed] Celebration + long-term consistency plan
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-176-20261016@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20261016T040000
+DTEND;TZID=Asia/Kolkata:20261016T060000
+SUMMARY:[Mixed] Extra revision: arrays\, strings\, hashing\, pointers
+DESCRIPTION:Day 176 of 190\nTrack: Interview Mastery / Revision\nTopic: Extra revision: arrays\, strings\, hashing\, pointers\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Mixed] Extra revision: arrays\, strings\, hashing\, pointers
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-177-20261017@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20261017T040000
+DTEND;TZID=Asia/Kolkata:20261017T060000
+SUMMARY:[Mixed] [Weekend] Extra revision: linked lists\, stacks\, queues\, heaps
+DESCRIPTION:Day 177 of 190\nTrack: Interview Mastery / Revision\nTopic: Extra revision: linked lists\, stacks\, queues\, heaps\nWeekend Session: Yes\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Mixed] [Weekend] Extra revision: linked lists\, stacks\, queues\, heaps
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-178-20261018@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20261018T040000
+DTEND;TZID=Asia/Kolkata:20261018T060000
+SUMMARY:[Mixed] [Weekend] Extra revision: trees\, BST\, trie\, recursion
+DESCRIPTION:Day 178 of 190\nTrack: Interview Mastery / Revision\nTopic: Extra revision: trees\, BST\, trie\, recursion\nWeekend Session: Yes\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Mixed] [Weekend] Extra revision: trees\, BST\, trie\, recursion
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-179-20261019@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20261019T040000
+DTEND;TZID=Asia/Kolkata:20261019T060000
+SUMMARY:[Mixed] Extra revision: graphs\, union find\, shortest paths
+DESCRIPTION:Day 179 of 190\nTrack: Interview Mastery / Revision\nTopic: Extra revision: graphs\, union find\, shortest paths\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Mixed] Extra revision: graphs\, union find\, shortest paths
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-180-20261020@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20261020T040000
+DTEND;TZID=Asia/Kolkata:20261020T060000
+SUMMARY:[Mixed] Extra revision: dynamic programming\, greedy\, backtracking
+DESCRIPTION:Day 180 of 190\nTrack: Interview Mastery / Revision\nTopic: Extra revision: dynamic programming\, greedy\, backtracking\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Mixed] Extra revision: dynamic programming\, greedy\, backtracking
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-181-20261021@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20261021T040000
+DTEND;TZID=Asia/Kolkata:20261021T060000
+SUMMARY:[Mixed] Extra revision: system design case study practice
+DESCRIPTION:Day 181 of 190\nTrack: Interview Mastery / Revision\nTopic: Extra revision: system design case study practice\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Mixed] Extra revision: system design case study practice
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-182-20261022@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20261022T040000
+DTEND;TZID=Asia/Kolkata:20261022T060000
+SUMMARY:[Mixed] Mock interview / catch-up / reflection day
+DESCRIPTION:Day 182 of 190\nTrack: Interview Mastery / Revision\nTopic: Mock interview / catch-up / reflection day\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Mixed] Mock interview / catch-up / reflection day
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-183-20261023@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20261023T040000
+DTEND;TZID=Asia/Kolkata:20261023T060000
+SUMMARY:[Mixed] Extra revision: arrays\, strings\, hashing\, pointers
+DESCRIPTION:Day 183 of 190\nTrack: Interview Mastery / Revision\nTopic: Extra revision: arrays\, strings\, hashing\, pointers\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Mixed] Extra revision: arrays\, strings\, hashing\, pointers
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-184-20261024@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20261024T040000
+DTEND;TZID=Asia/Kolkata:20261024T060000
+SUMMARY:[Mixed] [Weekend] Extra revision: linked lists\, stacks\, queues\, heaps
+DESCRIPTION:Day 184 of 190\nTrack: Interview Mastery / Revision\nTopic: Extra revision: linked lists\, stacks\, queues\, heaps\nWeekend Session: Yes\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Mixed] [Weekend] Extra revision: linked lists\, stacks\, queues\, heaps
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-185-20261025@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20261025T040000
+DTEND;TZID=Asia/Kolkata:20261025T060000
+SUMMARY:[Mixed] [Weekend] Extra revision: trees\, BST\, trie\, recursion
+DESCRIPTION:Day 185 of 190\nTrack: Interview Mastery / Revision\nTopic: Extra revision: trees\, BST\, trie\, recursion\nWeekend Session: Yes\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Mixed] [Weekend] Extra revision: trees\, BST\, trie\, recursion
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-186-20261026@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20261026T040000
+DTEND;TZID=Asia/Kolkata:20261026T060000
+SUMMARY:[Mixed] Extra revision: graphs\, union find\, shortest paths
+DESCRIPTION:Day 186 of 190\nTrack: Interview Mastery / Revision\nTopic: Extra revision: graphs\, union find\, shortest paths\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Mixed] Extra revision: graphs\, union find\, shortest paths
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-187-20261027@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20261027T040000
+DTEND;TZID=Asia/Kolkata:20261027T060000
+SUMMARY:[Mixed] Extra revision: dynamic programming\, greedy\, backtracking
+DESCRIPTION:Day 187 of 190\nTrack: Interview Mastery / Revision\nTopic: Extra revision: dynamic programming\, greedy\, backtracking\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Mixed] Extra revision: dynamic programming\, greedy\, backtracking
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-188-20261028@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20261028T040000
+DTEND;TZID=Asia/Kolkata:20261028T060000
+SUMMARY:[Mixed] Extra revision: system design case study practice
+DESCRIPTION:Day 188 of 190\nTrack: Interview Mastery / Revision\nTopic: Extra revision: system design case study practice\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Mixed] Extra revision: system design case study practice
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-189-20261029@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20261029T040000
+DTEND;TZID=Asia/Kolkata:20261029T060000
+SUMMARY:[Mixed] Mock interview / catch-up / reflection day
+DESCRIPTION:Day 189 of 190\nTrack: Interview Mastery / Revision\nTopic: Mock interview / catch-up / reflection day\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Mixed] Mock interview / catch-up / reflection day
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dsa-sd-6m-190-20261030@openai.local
+DTSTAMP:20260421T081444Z
+DTSTART;TZID=Asia/Kolkata:20261030T040000
+DTEND;TZID=Asia/Kolkata:20261030T060000
+SUMMARY:[Mixed] Extra revision: arrays\, strings\, hashing\, pointers
+DESCRIPTION:Day 190 of 190\nTrack: Interview Mastery / Revision\nTopic: Extra revision: arrays\, strings\, hashing\, pointers\nWeekend Session: No\nStudy block: 120 minutes\nSuggested split: 35 min theory\, 60 min guided practice\, 25 min revision/notes.
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Reminder: [Mixed] Extra revision: arrays\, strings\, hashing\, pointers
+END:VALARM
+END:VEVENT
+END:VCALENDAR

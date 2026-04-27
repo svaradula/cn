@@ -2,7 +2,7 @@
 // Phase 4 → Phase 5: Schedule Interview modal
 // Integrates with Microsoft Graph API (Outlook + Teams)
 
-import { useEffect, useRef, useState } from "react";
+import React, { useEffect, useRef, useState } from "react";
 
 const BRAND = {
   navy:   "#1B3A8C",
@@ -183,22 +183,38 @@ export default function ScheduleModal({
 
         {/* ── Auth banner (shown if not connected) ── */}
         {!isAuthenticated && (
-          <div className="mx-6 mt-4 shrink-0 rounded-xl px-4 py-3 flex items-center justify-between gap-4"
-               style={{ background: "#fffbeb", border: "1px solid #fde68a" }}>
-            <div className="flex items-center gap-3">
-              <span className="text-lg">🔗</span>
-              <div>
-                <p className="text-xs font-semibold text-amber-800">Connect your Outlook account</p>
-                <p className="text-xs text-amber-600">Required to send emails and create Teams meetings</p>
+          <div className="mx-6 mt-4 shrink-0 flex flex-col gap-2">
+            {/* Primary connect button */}
+            <div className="rounded-xl px-4 py-3 flex items-center justify-between gap-4"
+                 style={{ background: "#fffbeb", border: "1px solid #fde68a" }}>
+              <div className="flex items-center gap-3">
+                <span className="text-lg">🔗</span>
+                <div>
+                  <p className="text-xs font-semibold text-amber-800">Connect your Outlook account</p>
+                  <p className="text-xs text-amber-600">Required to send emails and create Teams meetings</p>
+                </div>
               </div>
+              <button
+                onClick={handleConnectOutlook}
+                className="text-xs font-bold text-white px-3 py-1.5 rounded-lg shrink-0 transition-opacity hover:opacity-90"
+                style={{ background: `linear-gradient(135deg, ${BRAND.navy}, ${BRAND.purple})` }}
+              >
+                Connect Outlook
+              </button>
             </div>
-            <button
-              onClick={handleConnectOutlook}
-              className="text-xs font-bold text-white px-3 py-1.5 rounded-lg shrink-0 transition-opacity hover:opacity-90"
-              style={{ background: `linear-gradient(135deg, ${BRAND.navy}, ${BRAND.purple})` }}
-            >
-              Connect Outlook
-            </button>
+
+            {/* Admin consent helper — shown when org policy blocks user consent */}
+            <div className="rounded-xl px-4 py-3"
+                 style={{ background: "#f0f9ff", border: "1px solid #bae6fd" }}>
+              <p className="text-xs font-semibold text-blue-800 mb-1">
+                Seeing 'Approval required' or 'Request pending'?
+              </p>
+              <p className="text-xs text-blue-600 mb-2">
+                Your organisation requires a Global Admin to approve this app once.
+                Copy the link below and send it to your IT/Azure admin.
+              </p>
+              <AdminConsentUrl apiBase={import.meta.env.VITE_API_BASE_URL} />
+            </div>
           </div>
         )}
 
@@ -437,6 +453,47 @@ function Toggle({ checked, onChange }) {
 function getInitials(name) {
   if (!name || name === "Not found") return "?";
   return name.trim().split(/\s+/).slice(0, 2).map((w) => w[0].toUpperCase()).join("");
+}
+
+function AdminConsentUrl({ apiBase }) {
+  const [url, setUrl] = React.useState("");
+  const [copied, setCopied] = React.useState(false);
+
+  React.useEffect(() => {
+    fetch(`${apiBase}/api/auth/admin-consent-url`)
+      .then((r) => r.json())
+      .then((d) => setUrl(d.admin_consent_url || ""))
+      .catch(() => {});
+  }, [apiBase]);
+
+  const copy = () => {
+    if (!url) return;
+    navigator.clipboard.writeText(url).then(() => {
+      setCopied(true);
+      setTimeout(() => setCopied(false), 2000);
+    });
+  };
+
+  if (!url) return null;
+
+  return (
+    <div className="flex items-center gap-2">
+      <input
+        readOnly
+        value={url}
+        className="flex-1 text-xs px-2 py-1.5 rounded border border-blue-200
+                   bg-white text-blue-700 truncate font-mono"
+      />
+      <button
+        onClick={copy}
+        className="text-xs font-bold px-2.5 py-1.5 rounded-lg shrink-0
+                   transition-colors"
+        style={{ background: copied ? "#16a34a" : "#1d4ed8", color: "white" }}
+      >
+        {copied ? "Copied ✓" : "Copy"}
+      </button>
+    </div>
+  );
 }
 
 function TeamsIcon() {
